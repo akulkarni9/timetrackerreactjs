@@ -1,0 +1,10 @@
+{
+  "name": "Comment box",
+  "keywords": [ "react", "reactjs", "Comment" ],
+  "logo": "http://www.vectortemplates.com/raster/batman-logo-big.gif",
+  "success_url": "/",
+  "env" : {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+  }
+}
+
